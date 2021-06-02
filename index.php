@@ -11,6 +11,9 @@
 <body>
     <h1>Hello World!</h1>
     <p>ini contoh paragraph</p>
+    <ul>
+        <li>blablabla</li>
+    </ul>
 </body>
 
 </html>
